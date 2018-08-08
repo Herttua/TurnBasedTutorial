@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using GridMaster;
+using TurnBased;
 
 //for more on A* visit
 //https://en.wikipedia.org/wiki/A*_search_algorithm

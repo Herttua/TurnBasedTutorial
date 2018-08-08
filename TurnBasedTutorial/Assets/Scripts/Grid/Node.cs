@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace GridMaster
+namespace TurnBased
 {
     public class Node
     {
